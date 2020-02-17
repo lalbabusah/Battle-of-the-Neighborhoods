@@ -10,9 +10,10 @@ Based on definition of our problem, factors that will influence our decission ar
 
 number of different types of venues in the neighborhood of Toronto.
 venues which are more common in the neighborhoods of Toronto.
+
 Following data sources will be needed for analysis of Neighborhoods of Toronto:
 
 For all the information we need to explore and cluster the neighborhoods in Toronto a Wikipedia page exists, here is the link: https://en.wikipedia.org/wiki/List_of_postal_codes_of_Canada:_M.
 For scraping the table, we can simply use pandas to read the table into a pandas dataframe.
 For the geographical coordinates of each postal code, read a csv file (https://cocl.us/Geospatial_data) using pandas dataframe.
-explore the neighborhoods and segment them using Foursquare API
+Explore the neighborhoods and segment them using Foursquare API.
