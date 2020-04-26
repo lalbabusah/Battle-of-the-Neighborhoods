@@ -1,3 +1,10 @@
+## Table of contents
+* [Introduction: Business Problem](#introduction)
+* [Data Acquisition](#Data_Acquisition)
+* [Data Wrangling](#Data_Wrangling)
+* [Data Exploration](#Data_Exploration)
+* [Model Development](#Model_Development)
+
 ## Introduction
 In this project, compare the neighborhoods of Toronto. Since there are lots of venues in neighborhoods of Toronto, try to detect which type of venues are more common in Neighborhoods.
 
